@@ -1,0 +1,45 @@
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.exe
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.deps.json
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.runtimeconfig.json
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.dll
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.pdb
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.Program.resources
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.AssemblyInfo.cs
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.dll
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\refint\chrsiroberts.dll
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.pdb
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.genruntimeconfig.cache
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\ref\chrsiroberts.dll
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.exe
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.deps.json
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.runtimeconfig.json
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.dll
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.pdb
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.AssemblyInfo.cs
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.sourcelink.json
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.dll
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\refint\chrsiroberts.dll
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.pdb
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.genruntimeconfig.cache
+C:\Users\Owner\Downloads\testbracch\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\ref\chrsiroberts.dll
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.exe
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.deps.json
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.runtimeconfig.json
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.dll
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\bin\Release\net6.0-windows\chrsiroberts.pdb
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.AssemblyInfo.cs
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.dll
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\refint\chrsiroberts.dll
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.pdb
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\chrsiroberts.genruntimeconfig.cache
+C:\Users\Owner\Downloads\save-main\save-main\testbracch - Copy\chrsiroberts\chrsiroberts\obj\Release\net6.0-windows\ref\chrsiroberts.dll

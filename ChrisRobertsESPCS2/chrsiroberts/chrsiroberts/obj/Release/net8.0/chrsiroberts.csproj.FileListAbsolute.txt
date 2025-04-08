@@ -1,0 +1,4 @@
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net8.0\chrsiroberts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net8.0\chrsiroberts.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net8.0\chrsiroberts.AssemblyInfo.cs
+C:\Users\Owner\source\repos\chrsiroberts\chrsiroberts\obj\Release\net8.0\chrsiroberts.csproj.CoreCompileInputs.cache
