@@ -50,8 +50,8 @@ namespace chrsiroberts
         private IntPtr _clientDllBaseAddress = IntPtr.Zero;
         private IntPtr _engineDllBaseAddress = IntPtr.Zero;
 
-        // Unique identifier for your cheat
-        private const string CheatIdentifier = "ChrisRoberts_v0.1";
+        // cheat name
+        private const string CheatIdentifier = "ChrisRoberts";
 
         public MemoryReader(Process process)
         {
@@ -73,7 +73,7 @@ namespace chrsiroberts
             if (processHandle == IntPtr.Zero)
                 throw new Exception("Failed to open process. Ensure the game is running and the process ID is correct.");
 
-            //great anti cheat vac
+        
             IntPtr ntdllHandle = GetModuleHandle("ntdll.dll");
             IntPtr ntReadVirtualMemoryPtr = GetProcAddress(ntdllHandle, "NtReadVirtualMemory");
             _ntReadVirtualMemory = Marshal.GetDelegateForFunctionPointer<NtReadVirtualMemoryDelegate>(ntReadVirtualMemoryPtr);
